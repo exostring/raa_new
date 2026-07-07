@@ -527,7 +527,7 @@ p,
 
 /* Sections */
 .section {
-    padding: 60px 0;
+    padding: 20px 0;
 }
 .section-header {
     margin-bottom: 50px;
@@ -953,7 +953,7 @@ p,
         font-size: 14px;
     }
     .section {
-        padding: 40px 0;
+        padding: 20px 0;
     }
     .section-title {
         max-width: 440px;
