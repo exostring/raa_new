@@ -126,7 +126,7 @@ main.container::before {
     left: 50%;
     width: min(980px, 82vw);
     aspect-ratio: 131 / 90;
-    background: url('RAA/bg-panel-fragment.svg') center / contain no-repeat;
+    background: url('img/bg-panel-fragment.svg') center / contain no-repeat;
     opacity: 0.1;
     transform: translateX(-50%) rotate(180deg);
     pointer-events: none;
